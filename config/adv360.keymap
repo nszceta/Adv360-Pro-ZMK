@@ -42,9 +42,9 @@
     aptmak31 {
       bindings = <
         &trans &trans    &trans &trans &trans &trans  &trans                                                               &trans &trans &trans &trans    &trans  &trans   &trans
-        &trans &kp SEMI  &kp W  &kp F  &kp L  &kp Q   &trans                                                               &none  &kp B  &kp P  &kp U     &kp Y   &kp SQT  &trans
+        &trans &kp X     &kp C  &kp F  &kp M  &kp Q   &trans                                                               &none  &kp B  &kp P  &kp U     &kp Y   &kp SQT  &trans
         &trans &kp R     &kp S  &kp T  &kp N  &kp J   &none            &trans    &trans             &trans &trans          &none  &kp K  &kp H  &kp A     &kp I   &kp O    &trans
-        &trans &kp X     &kp C  &kp G  &kp M  &kp Z         &none      &none     &trans &none &none &trans &none    &none         &kp V  &kp D  &kp COMMA &kp DOT &kp FSLH &trans
+        &trans &kp SEMI  &kp W  &kp G  &kp L  &kp Z         &none      &none     &trans &none &none &trans &none    &none         &kp V  &kp D  &kp COMMA &kp DOT &kp FSLH &trans
         &trans &trans    &trans &trans &trans               &kp SPACE  &kp ENTER &trans             &trans &kp BSPC &kp E                &trans &trans    &trans  &trans   &trans
       >;
     };
